@@ -2,7 +2,7 @@
 Repository to store collected URL data
 
 Data_01(mix) https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset (Kaggle)   
-Pieces : 651,192
+Pieces : 651,192 (benign or safe 428,103 / defacement 96457 / phishing 94111 / malware 32520)
 
 Data_02(Nor) https://www.kaggle.com/datasets/cheedcheed/top1m (Kaggle)   
 Pieces : 10,00,000
