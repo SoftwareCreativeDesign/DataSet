@@ -1,7 +1,7 @@
 # Data_set
 Repository to store collected URL data
 
-Data_01(Mal) https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset (Kaggle)   
+Data_01(mix) https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset (Kaggle)   
 Pieces : 651,192
 
 Data_02(Nor) https://www.kaggle.com/datasets/cheedcheed/top1m (Kaggle)   
