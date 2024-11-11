@@ -3,3 +3,6 @@ https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO20220325570337
 
 Malicious URL Detection Using Deep Learning
 https://github.com/SoftwareCreativeDesign/DataSet.git
+
+Hooked_A Real_World Study on QR Code   
+https://arxiv.org/abs/2407.16230
